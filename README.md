@@ -1,2 +1,3 @@
 # Algorythms
-Yandex Practicum algorythms 
+Yandex Contest algorythms
+https://contest.yandex.ru/
